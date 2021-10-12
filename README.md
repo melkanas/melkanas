@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @melkanas
 - 👀 I’m interested in technologies and new business models 
 - 🌱 I’m currently looking to get more experience in building beautiful UX and scaling web apps 
-- 💞️ I’m looking to collaborate on fullstack web apps
+- 💞️ I’m looking to collaborate on fullstack apps
 - 📫 Email me : anas.melk96@gmail.com
 
 <!---
